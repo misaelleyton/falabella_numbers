@@ -1,20 +1,46 @@
-# Challenge Fullstack Developer
+# Getting Started with Create React App
 
-Write a program that prints all the numbers from 1 to 100.
-The numbers must be shown on a React front-end application.
-However, for multiples of 3, instead of the number, print "Falabella". For
-multiples of 5 print "IT". For numbers which are multiples of both 3 and 5,
-print "Marketplace".
-But here's the catch: you can use only one `if`. No multiple branches, ternary
-operators or `else`.
-# Requirements
-* 1 `if`.
-* You can't use `else`, `else if` or ternary.
-* Unit tests.
-* Feel free to apply your SOLID knowledge.
-* You can write the challenge in PHP or JavaScript/TypeScript language.
-* One git branch for the solution.
-* One git branch for the documentation.
-# Submission
-Create a repository on GitLab, GitHub or any other similar service and just
-send us the link.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
